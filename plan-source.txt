@@ -1,0 +1,62 @@
+DENMARK MARKET ENTRY PLAN FOR ELEVENLABS
+Written by Stephan Rifbjerg, August 2026, using public sources only. Unsolicited draft, written before being hired. Nothing here claims an existing ElevenLabs customer relationship except the publicly announced Storytel partnership.
+
+=== THE CORE THESIS ===
+Denmark is not a language localisation project. It is a compliance deadline with a budget attached. The EU AI Act Article 50 transparency obligations came into force on 2 August 2026. Every organisation in Denmark running a voicebot must now disclose that people are speaking to a machine, and must mark generated audio so it is machine-detectable as synthetic. Exposure runs to 15 million euro or 3 percent of worldwide turnover, whichever is higher. Most Danish voice deployments were built before this rule landed. That is the opening.
+
+=== THE THREE WEDGES ===
+
+WEDGE 1: COMPLIANCE (urgency)
+Article 50 is live as of 2 August 2026. Danish voicebots built before August need disclosure and machine-readable provenance on synthetic audio. This turns a nice-to-have into a dated obligation with a named owner, usually the Data Protection Officer or the CISO, not marketing. It opens legal, risk and CISO conversations. It beats the objection "we will look at this next budget year".
+
+WEDGE 2: SOVEREIGNTY (politics)
+Denmark is actively reducing dependence on US platforms. The Danish Ministry of Digitalisation is phasing out Microsoft 365 and Windows in favour of LibreOffice and Linux. Copenhagen saw Microsoft licence costs rise 72 percent in five years, from 313 million to 538 million Danish kroner between 2018 and 2023. Copenhagen and Aarhus, the two largest municipalities, have both announced moves away from Microsoft. The Joint Government Digital Strategy 2026 to 2029 explicitly promotes awareness of alternative providers and increased market pluralism. Roughly 99 percent of Danish AI deployments still run on Microsoft or OpenAI infrastructure. A European voice vendor is a genuinely differentiated answer. This opens public sector and regulated industries.
+
+WEDGE 3: THE UNTOUCHED CHANNEL (proof)
+Danish contact centres have already proven text automation works. Norlys handles 82 percent of all chats automatically. Industry expectation is that AI resolves around 65 percent of inbound support without human intervention in 2026. Gartner projects AI will cut global contact centre staff costs by roughly 560 billion Danish kroner. But voice, the expensive channel, is largely untouched in Denmark. The return on investment argument is already won internally. Only the modality is missing. This opens the COO and the head of customer service, and it beats the objection "we already have a chatbot".
+
+=== THE TEN NAMED ACCOUNTS, WITH TRIGGERS ===
+
+1. NORLYS. Denmark's largest cooperatively owned energy and telecom group, over 1.7 million customers, formed from the merger of SE and Eniig in 2019. Trigger: they already automate 82 percent of chats using a SupWiz chatbot built with NNIT. Text ROI is proven and internally accepted. Voice is the next channel and the expensive one. Entry: COO or head of customer service, approached via NNIT.
+
+2. PODIMO. Copenhagen-based podcast and audiobook platform, founded 2019, operating in seven markets with more than 220 staff, having raised substantial venture funding. Trigger: they already use voice cloning to relaunch shows in English, Danish, Spanish and German. Their growth model depends on relicensing local content across markets, so translation economics is a core lever, not an experiment. Entry: founder or chief product officer, direct.
+
+3. TDC ERHVERV and NUUDAY. The enterprise arm of the Danish telco. Trigger: they publicly market the future of the contact centre with AI, and their own senior sales director has said AI will likely halve contact centre cost. They are selling the outcome but do not own the voice layer. They are both a customer and a channel. Entry: partnership first, then their installed base.
+
+4. JP/POLITIKENS HUS, which owns Saxo.com, Denmark's largest online bookshop, and acquired the Chapter streaming service from Gyldendal. Trigger: Storytel, their direct competitor, already runs ElevenLabs AI narration and has shipped a fully AI-produced audiobook available in Danish. This is a competitive-response conversation, which moves faster than a discovery conversation. Entry: publishing managing director, reference-led.
+
+5. KOBENHAVNS KOMMUNE, the City of Copenhagen, largest Danish municipality. Trigger: actively exiting Microsoft after a 72 percent licence increase. Citizen service accessibility and read-aloud obligations need a voice layer, and the political mandate explicitly favours non-US alternatives. Entry: digitaliseringschef, framed on sovereignty.
+
+6. DANSKE BANK. Largest Danish bank. Trigger: high call volume, a Danish language requirement, and a regulator that has already found recordkeeping failings at major Danish banks. Article 50 disclosure plus audit-grade provenance makes this a compliance sale rather than a feature sale. Entry: CISO or DPO first, then service operations.
+
+7. NOVO NORDISK. Global pharmaceutical company headquartered in Bagsvaerd. Trigger: an enormous multilingual patient and healthcare-professional content estate under medical, legal and regulatory governance. Voice is the cheapest way to localise already-approved content without re-running approval per market. Stephan holds an existing senior relationship at this account from his Adobe years. Entry: warm, via existing network.
+
+8. EGMONT. Nordic media group headquartered in Copenhagen. Trigger: children's content and publishing across the Nordics, where dubbing volume is high and per-market voice talent cost is the constraint on how deep the catalogue can go. Entry: head of content operations.
+
+9. DR, Danmarks Radio, the public service broadcaster. Trigger: accessibility obligations on archive and online content, plus a public service mandate that makes provenance and disclosure a reputational requirement, not only a legal one. Procurement is slow, but the reference value is high. Entry: long cycle, start now.
+
+10. TRYG. Nordic insurance group. Trigger: claims intake is voice-first, seasonal, and spikes hard during storms. Surge capacity without hiring is the clearest voice-agent business case in Danish insurance. Entry: claims COO.
+
+=== HOW THE REMAINING TWENTY ACCOUNTS GET FOUND ===
+Three filters applied across the Danish top 200. First, any Danish organisation with a live voicebot or IVR, because Article 50 puts them on the clock. Second, any Danish content owner whose growth depends on more languages, because dubbing cost is the ceiling on catalogue expansion. Third, any public authority named in the sovereignty programme, because budget and political will already exist.
+
+=== PARTNERS BEFORE HEADCOUNT ===
+Denmark is a market where a small number of integrators sit between vendor and enterprise. Going through four partners is faster than going direct into ten accounts.
+NNIT and SUPWIZ built the Norlys automation and own that relationship and deployment pattern.
+NETCOMPANY and KMD are the two routes into Danish public sector at scale.
+PUZZEL and ZENDESK are contact-centre platforms with real Nordic and Copenhagen presence that need a voice layer.
+TDC ERHVERV already sells the AI contact-centre narrative without owning the voice component.
+
+=== FIRST 90 DAYS ===
+
+Days 0 to 30, prove the compliance wedge is real. Identify every Danish organisation with a voicebot or IVR already in production, which is a finite and findable set and constitutes the Article 50 exposure list. Build one reusable Danish compliance narrative with legal review covering what disclosure requires, what machine-readable provenance means in practice, and what ElevenLabs provides. Open the four partner conversations. Ship a Danish-language reference agent any prospect can talk to, so the first meeting is a demo rather than a deck.
+
+Days 31 to 60, land two lighthouse deployments fast. Go hard at the two accounts where the internal argument is already won: Norlys on the voice channel and Podimo on translation economics. Run a scoped pilot on the customer's own content, in Danish, in weeks not quarters. Enter public sector through the sovereignty door rather than the product door, starting with Copenhagen where the mandate is public and funded. Qualify hard and kill weak deals early so the forecast is honest from the first cycle.
+
+Days 61 to 90, turn the first two into the next ten. Convert one deployment into a public Danish reference, because one named local logo outperforms any amount of global brand in this market. Formalise one partner motion into repeatable co-sell with defined economics. Write the hiring case from evidence, deciding which role comes first based on the actual shape of the pipeline rather than a template org chart. Deliver a twelve-month Danish territory plan that leadership can defend upward.
+
+=== WHAT THIS PLAN COULD BE WRONG ABOUT ===
+Existing pipeline is invisible from outside. Some of these ten accounts may already be in conversation, or already lost. The list would change on day one with CRM access.
+The compliance wedge may open doors without opening budgets. Legal urgency creates meetings, but it does not always create purchase orders, and the buyer it reaches may not hold budget.
+Danish public sector is slow and procurement-bound. The sovereignty story is strong, but DR and the municipalities are multi-quarter cycles, not first-quarter wins, and are weighted accordingly.
+Denmark alone may be too small a unit. The strongest accounts here, Podimo, Egmont, Tryg and Novo Nordisk, are Nordic or global in how they buy. A purely Danish plan risks being outflanked by whoever holds the regional account.
